@@ -1,0 +1,14 @@
+body{
+    background-color: cornflowerblue;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+img{
+    border-radius: 10%;
+}
+p{
+    color: white;
+    font-style: italic;
+}

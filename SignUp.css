@@ -1,0 +1,46 @@
+form{
+    background-color:lightsteelblue;
+    padding: 10px 20px;
+    border-radius: 10px;
+    height: 1048px;
+  }
+  label{
+    width: 130px;
+    display:inline-block;
+    margin:10px;
+    font-weight:bold;
+    font-size: 15px;
+    text-transform: capitalize;
+    font-family: 'Gentium Book Plus', serif;
+  font-family: 'Roboto', sans-serif;
+  }
+  
+  input{
+    padding :4px;
+    margin: 5px;
+    font-size: 16px;
+    border-radius: 10px;
+    border: 1px solid #f9f9f9;
+    text-align: center;
+  }
+  
+  h3{
+    text-align:center ;
+    color: black;
+  }
+  a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    margin:auto;
+    background-color:white;
+    text-decoration: solid;
+    text-align: center;
+    color:darkcyan;
+    font-weight: bold;
+    padding: 4px;
+    border-radius: 10px;
+    display: block;
+    width: 200px;
+    text-align: center;
+}
